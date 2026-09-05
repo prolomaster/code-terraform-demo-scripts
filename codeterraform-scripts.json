@@ -1,0 +1,380 @@
+{
+  "version": 1,
+  "entries": {
+    "script:bio_collector_1": {
+      "kind": "script",
+      "id": "bio_collector_1",
+      "canonical": "bio_collector_1.py",
+      "aliases": [
+        "bio_collector_1.py"
+      ],
+      "knownHashes": {
+        "bio_collector_1.py": "e06e6bf6:1017"
+      }
+    },
+    "script:bio_lab_1": {
+      "kind": "script",
+      "id": "bio_lab_1",
+      "canonical": "bio_lab_1.py",
+      "aliases": [
+        "bio_lab_1.py"
+      ],
+      "knownHashes": {
+        "bio_lab_1.py": "57f88abf:246"
+      }
+    },
+    "script:bio_exchange_1": {
+      "kind": "script",
+      "id": "bio_exchange_1",
+      "canonical": "bio_exchange_1.py",
+      "aliases": [
+        "bio_exchange_1.py"
+      ],
+      "knownHashes": {
+        "bio_exchange_1.py": "a1b34a35:924"
+      }
+    },
+    "script:boot": {
+      "kind": "script",
+      "id": "boot",
+      "canonical": "boot.py",
+      "aliases": [
+        "boot.py"
+      ],
+      "knownHashes": {
+        "boot.py": "5b23402a:6"
+      }
+    },
+    "script:scanner": {
+      "kind": "script",
+      "id": "scanner",
+      "canonical": "surface_scan_1.py",
+      "aliases": [
+        "surface_scan_1.py",
+        "scanner.py"
+      ],
+      "knownHashes": {
+        "surface_scan_1.py": "f3319e4d:128"
+      }
+    },
+    "script:harvester": {
+      "kind": "script",
+      "id": "harvester",
+      "canonical": "resource_collector_1.py",
+      "aliases": [
+        "resource_collector_1.py",
+        "harvester.py"
+      ],
+      "knownHashes": {
+        "resource_collector_1.py": "13a80762:1944"
+      }
+    },
+    "script:inventory": {
+      "kind": "script",
+      "id": "inventory",
+      "canonical": "inventory_manager_1.py",
+      "aliases": [
+        "inventory_manager_1.py",
+        "inventory.py"
+      ],
+      "knownHashes": {
+        "inventory_manager_1.py": "811c9dc5:0"
+      }
+    },
+    "script:power": {
+      "kind": "script",
+      "id": "power",
+      "canonical": "power.py",
+      "aliases": [
+        "power.py"
+      ],
+      "knownHashes": {
+        "power.py": "5c9ca7b1:16"
+      }
+    },
+    "script:sensors": {
+      "kind": "script",
+      "id": "sensors",
+      "canonical": "sensors.py",
+      "aliases": [
+        "sensors.py"
+      ],
+      "knownHashes": {
+        "sensors.py": "1798e883:18"
+      }
+    },
+    "script:uplink": {
+      "kind": "script",
+      "id": "uplink",
+      "canonical": "uplink.py",
+      "aliases": [
+        "uplink.py"
+      ],
+      "knownHashes": {
+        "uplink.py": "0de9eab1:198"
+      }
+    },
+    "script:oxygen_sensor": {
+      "kind": "script",
+      "id": "oxygen_sensor",
+      "canonical": "oxygen_sensor.py",
+      "aliases": [
+        "oxygen_sensor.py"
+      ],
+      "knownHashes": {
+        "oxygen_sensor.py": "49043264:127"
+      }
+    },
+    "script:pressure_sensor": {
+      "kind": "script",
+      "id": "pressure_sensor",
+      "canonical": "pressure_sensor.py",
+      "aliases": [
+        "pressure_sensor.py"
+      ],
+      "knownHashes": {
+        "pressure_sensor.py": "98a2fb9a:149"
+      }
+    },
+    "script:contract_relay_hack": {
+      "kind": "script",
+      "id": "contract_relay_hack",
+      "canonical": "relay_hack.py",
+      "aliases": [
+        "relay_hack.py",
+        "contract_relay_hack.py"
+      ],
+      "knownHashes": {
+        "relay_hack.py": "ea189e5c:540"
+      }
+    },
+    "script:solar_1": {
+      "kind": "script",
+      "id": "solar_1",
+      "canonical": "solar_tracker_1.py",
+      "aliases": [
+        "solar_tracker_1.py",
+        "solar_1.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_1.py": "2ee49ffe:85"
+      }
+    },
+    "script:solar_2": {
+      "kind": "script",
+      "id": "solar_2",
+      "canonical": "solar_tracker_2.py",
+      "aliases": [
+        "solar_tracker_2.py",
+        "solar_2.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_2.py": "33b456c0:84"
+      }
+    },
+    "script:contract_xenogenetics": {
+      "kind": "script",
+      "id": "contract_xenogenetics",
+      "canonical": "xenogenetics.py",
+      "aliases": [
+        "xenogenetics.py",
+        "contract_xenogenetics.py"
+      ],
+      "knownHashes": {
+        "xenogenetics.py": "226352ba:194"
+      }
+    },
+    "script:contract_corrupted_archive": {
+      "kind": "script",
+      "id": "contract_corrupted_archive",
+      "canonical": "corrupted_archive.py",
+      "aliases": [
+        "corrupted_archive.py",
+        "contract_corrupted_archive.py"
+      ],
+      "knownHashes": {
+        "corrupted_archive.py": "34be9d90:444"
+      }
+    },
+    "script:o2gen_1": {
+      "kind": "script",
+      "id": "o2gen_1",
+      "canonical": "oxygen_gen_1.py",
+      "aliases": [
+        "oxygen_gen_1.py",
+        "o2gen_1.py"
+      ],
+      "knownHashes": {
+        "oxygen_gen_1.py": "0445e8ed:179"
+      }
+    },
+    "script:heater_1": {
+      "kind": "script",
+      "id": "heater_1",
+      "canonical": "temp_heater_1.py",
+      "aliases": [
+        "temp_heater_1.py",
+        "heater_1.py"
+      ],
+      "knownHashes": {
+        "temp_heater_1.py": "f46f950e:151"
+      }
+    },
+    "script:solar_3": {
+      "kind": "script",
+      "id": "solar_3",
+      "canonical": "solar_tracker_3.py",
+      "aliases": [
+        "solar_tracker_3.py",
+        "solar_3.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_3.py": "2ee49ffe:85"
+      }
+    },
+    "script:solar_4": {
+      "kind": "script",
+      "id": "solar_4",
+      "canonical": "solar_tracker_4.py",
+      "aliases": [
+        "solar_tracker_4.py",
+        "solar_4.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_4.py": "2ee49ffe:85"
+      }
+    },
+    "script:pressure_1": {
+      "kind": "script",
+      "id": "pressure_1",
+      "canonical": "pressure_gen_1.py",
+      "aliases": [
+        "pressure_gen_1.py",
+        "pressure_1.py"
+      ],
+      "knownHashes": {
+        "pressure_gen_1.py": "a6326b96:122"
+      }
+    },
+    "script:heater_2": {
+      "kind": "script",
+      "id": "heater_2",
+      "canonical": "temp_heater_2.py",
+      "aliases": [
+        "temp_heater_2.py",
+        "heater_2.py"
+      ],
+      "knownHashes": {
+        "temp_heater_2.py": "f46f950e:151"
+      }
+    },
+    "script:o2gen_2": {
+      "kind": "script",
+      "id": "o2gen_2",
+      "canonical": "oxygen_gen_2.py",
+      "aliases": [
+        "oxygen_gen_2.py",
+        "o2gen_2.py"
+      ],
+      "knownHashes": {
+        "oxygen_gen_2.py": "0445e8ed:179"
+      }
+    },
+    "script:solar_5": {
+      "kind": "script",
+      "id": "solar_5",
+      "canonical": "solar_tracker_5.py",
+      "aliases": [
+        "solar_tracker_5.py",
+        "solar_5.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_5.py": "2ee49ffe:85"
+      }
+    },
+    "script:solar_6": {
+      "kind": "script",
+      "id": "solar_6",
+      "canonical": "solar_tracker_6.py",
+      "aliases": [
+        "solar_tracker_6.py",
+        "solar_6.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_6.py": "2ee49ffe:85"
+      }
+    },
+    "script:solar_7": {
+      "kind": "script",
+      "id": "solar_7",
+      "canonical": "solar_tracker_7.py",
+      "aliases": [
+        "solar_tracker_7.py",
+        "solar_7.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_7.py": "2ee49ffe:85"
+      }
+    },
+    "script:solar_8": {
+      "kind": "script",
+      "id": "solar_8",
+      "canonical": "solar_tracker_8.py",
+      "aliases": [
+        "solar_tracker_8.py",
+        "solar_8.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_8.py": "2ee49ffe:85"
+      }
+    },
+    "script:solar_9": {
+      "kind": "script",
+      "id": "solar_9",
+      "canonical": "solar_tracker_9.py",
+      "aliases": [
+        "solar_tracker_9.py",
+        "solar_9.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_9.py": "2ee49ffe:85"
+      }
+    },
+    "script:solar_10": {
+      "kind": "script",
+      "id": "solar_10",
+      "canonical": "solar_tracker_10.py",
+      "aliases": [
+        "solar_tracker_10.py",
+        "solar_10.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_10.py": "2ee49ffe:85"
+      }
+    },
+    "script:solar_11": {
+      "kind": "script",
+      "id": "solar_11",
+      "canonical": "solar_tracker_11.py",
+      "aliases": [
+        "solar_tracker_11.py",
+        "solar_11.py"
+      ],
+      "knownHashes": {
+        "solar_tracker_11.py": "2ee49ffe:85"
+      }
+    },
+    "script:contract_data_tablet": {
+      "kind": "script",
+      "id": "contract_data_tablet",
+      "canonical": "data_tablet.py",
+      "aliases": [
+        "data_tablet.py",
+        "contract_data_tablet.py"
+      ],
+      "knownHashes": {
+        "data_tablet.py": "738aaacc:376"
+      }
+    }
+  }
+}
