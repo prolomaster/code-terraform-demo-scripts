@@ -9,7 +9,7 @@
         "bio_collector_1.py"
       ],
       "knownHashes": {
-        "bio_collector_1.py": "e06e6bf6:1017"
+        "bio_collector_1.py": "a4b592cf:1032"
       }
     },
     "script:bio_lab_1": {
@@ -20,7 +20,7 @@
         "bio_lab_1.py"
       ],
       "knownHashes": {
-        "bio_lab_1.py": "57f88abf:246"
+        "bio_lab_1.py": "6226afbb:387"
       }
     },
     "script:bio_exchange_1": {
@@ -31,7 +31,7 @@
         "bio_exchange_1.py"
       ],
       "knownHashes": {
-        "bio_exchange_1.py": "a1b34a35:924"
+        "bio_exchange_1.py": "814c5214:320"
       }
     },
     "script:boot": {
@@ -66,7 +66,7 @@
         "harvester.py"
       ],
       "knownHashes": {
-        "resource_collector_1.py": "13a80762:1944"
+        "resource_collector_1.py": "3e1d5a90:1623"
       }
     },
     "script:inventory": {
@@ -253,7 +253,7 @@
         "pressure_1.py"
       ],
       "knownHashes": {
-        "pressure_gen_1.py": "a6326b96:122"
+        "pressure_gen_1.py": "5987b2e6:120"
       }
     },
     "script:heater_2": {
@@ -340,30 +340,6 @@
         "solar_tracker_9.py": "2ee49ffe:85"
       }
     },
-    "script:solar_10": {
-      "kind": "script",
-      "id": "solar_10",
-      "canonical": "solar_tracker_10.py",
-      "aliases": [
-        "solar_tracker_10.py",
-        "solar_10.py"
-      ],
-      "knownHashes": {
-        "solar_tracker_10.py": "2ee49ffe:85"
-      }
-    },
-    "script:solar_11": {
-      "kind": "script",
-      "id": "solar_11",
-      "canonical": "solar_tracker_11.py",
-      "aliases": [
-        "solar_tracker_11.py",
-        "solar_11.py"
-      ],
-      "knownHashes": {
-        "solar_tracker_11.py": "2ee49ffe:85"
-      }
-    },
     "script:contract_data_tablet": {
       "kind": "script",
       "id": "contract_data_tablet",
@@ -374,6 +350,52 @@
       ],
       "knownHashes": {
         "data_tablet.py": "738aaacc:376"
+      }
+    },
+    "script:contract_sealed_vault": {
+      "kind": "script",
+      "id": "contract_sealed_vault",
+      "canonical": "sealed_vault.py",
+      "aliases": [
+        "sealed_vault.py",
+        "contract_sealed_vault.py"
+      ],
+      "knownHashes": {
+        "sealed_vault.py": "811c9dc5:0"
+      }
+    },
+    "script:smelter_1": {
+      "kind": "script",
+      "id": "smelter_1",
+      "canonical": "smelter_1.py",
+      "aliases": [
+        "smelter_1.py"
+      ],
+      "knownHashes": {
+        "smelter_1.py": "811c9dc5:0"
+      }
+    },
+    "script:pressure_2": {
+      "kind": "script",
+      "id": "pressure_2",
+      "canonical": "pressure_gen_2.py",
+      "aliases": [
+        "pressure_gen_2.py",
+        "pressure_2.py"
+      ],
+      "knownHashes": {
+        "pressure_gen_2.py": "5987b2e6:120"
+      }
+    },
+    "script:charging_station_1": {
+      "kind": "script",
+      "id": "charging_station_1",
+      "canonical": "charging_station_1.py",
+      "aliases": [
+        "charging_station_1.py"
+      ],
+      "knownHashes": {
+        "charging_station_1.py": "811c9dc5:0"
       }
     }
   }

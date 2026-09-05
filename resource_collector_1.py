@@ -53,20 +53,9 @@ scanned = [
 ]
 scanned.sort(key=lambda d: d['result'].value, reverse=True)
 
-# for frag in scanned:
-#     move_to(frag['sector'])
-#     self.collect()
-#     if pickup.ok:
-#         stored = inv.store()
-#         print("stored " + pickup.name)
-
-# Valuables
-# for s in ('G16', 'H20', 'G22', 'E22'):
-#     move_collect(s)
 inv.store()
 # Rares
 for s in (
-    'A1',
-    'B2' , 'C2', 'C3', 'D5', 'D9', 'E8', 'H8', 'H7',
-    'G7', 'G3', 'G2', 'F1'):
+    'B14'
+):
     move_collect(s)

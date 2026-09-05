@@ -28,5 +28,5 @@ def main():
     for fragment_id, required_fragment_count in be.active_order().requires.items():
         needed_fragment_count = required_fragment_count - be.active_order().delivered[fragment_id] - inv.get_count(fragment_id)
         collect_component(fragment_id, needed_fragment_count)
-
-main()
+while True:
+    main()
